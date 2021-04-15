@@ -10,7 +10,7 @@ to use the api main endpoint call: https://localhost:5001/api/stories/topTenStor
 
 ## Extras
 
-there are 2 extra endpoints to explore 
+there are 2 extra endpoints to explore. 
 https://localhost:5001/api/stories/top10ids - gets the top 10 ids.
 https://localhost:5001/api/stories/getOne/[id] - gets one story by its id.
 
